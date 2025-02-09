@@ -1,7 +1,7 @@
 # TFTPD64_DOS
 
 By sending a large DNS request similar to the one in the repository the application terminates causing DoS. 
-The issue is related to an invalid values being passed to rep movsb.
+The issue is related to invalid values being passed to rep movsb.
 
 ![alt text](image-1.png)
 
